@@ -1,5 +1,7 @@
 # google-account-gmail-list
 高质量google账号，gmail账号，已经二次验证过，长期可用
+
+
 联系V：vitflash
 
 目前新注册的google账号必定会需要二次验证，否则只能使用24小时
